@@ -9,8 +9,13 @@
 - Features of Smart Contracts
 
 09/06/2024
- - setup github
+ - setup Github
  - Learnt linux commands
- - 
+ - Git commands
+ - uses of Git and Github
 
 10/06/2024 
+ - Learnt about MetaMask wallet
+ - First transaction use sepolia testnet ETH
+ - learnt about Txhash (Transaction Hash)
+ - Introduction to GAS 
