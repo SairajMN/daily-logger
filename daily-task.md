@@ -19,3 +19,10 @@
  - First transaction use sepolia testnet ETH
  - learnt about Txhash (Transaction Hash)
  - Introduction to GAS 
+
+ 11/06/2024
+  - How do Blockchain works
+  - what's Mining?
+  - Blockchain Demo in "https://andersbrownworth.com/blockchain/"
+  - Learnt about Transaction Signing
+  - Public and Private Keys
