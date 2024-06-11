@@ -22,7 +22,7 @@
 
  11/06/2024
   - How do Blockchain works
-  - what's Mining?
+  - what is Mining?
   - Blockchain Demo in "https://andersbrownworth.com/blockchain/"
   - Learnt about Transaction Signing
   - Public and Private Keys
