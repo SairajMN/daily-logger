@@ -26,3 +26,8 @@
   - Blockchain Demo in "https://andersbrownworth.com/blockchain/"
   - Learnt about Transaction Signing
   - Public and Private Keys
+
+ 12/06/2024
+ - Completed Blockchain Basics
+ - Started the Solidity 101
+ - Setting up My first contract
