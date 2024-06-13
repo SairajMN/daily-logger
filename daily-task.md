@@ -31,3 +31,9 @@
  - Completed Blockchain Basics
  - Started the Solidity 101
  - Setting up My first contract
+
+13/06/2024
+ - Solidity
+   - Basic variable types
+   - Functions
+   
