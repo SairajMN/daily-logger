@@ -50,4 +50,5 @@
  - Deployed my frist contract
  - Introduction to deploying and interacting with contracts, focusing on Remix Storage
  - Setting the project
+ - Deploying a contract from a contract
  
