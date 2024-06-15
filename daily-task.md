@@ -49,5 +49,5 @@
    - Basic of Mappings
  - Deployed my frist contract
  - Introduction to deploying and interacting with contracts, focusing on Remix Storage
- -
+ - Setting the project
  
