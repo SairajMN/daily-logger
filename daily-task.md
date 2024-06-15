@@ -45,5 +45,5 @@
 
 15/06/2024
  - Solididty
-  - Memory, Storage and Calldata
-  - Basic of Mappings
+   - Memory, Storage and Calldata
+   - Basic of Mappings
