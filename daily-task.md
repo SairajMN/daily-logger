@@ -47,3 +47,5 @@
  - Solididty
    - Memory, Storage and Calldata
    - Basic of Mappings
+ - Deployed my frist contract
+ 
