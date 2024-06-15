@@ -42,3 +42,8 @@
    - Arrays and Structs
    - Errors and Warnings
  - Build My first contract
+
+15/06/2024
+ - Solididty
+  - Memory, Storage and Calldata
+  - Basic of Mappings
