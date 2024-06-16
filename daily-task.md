@@ -29,26 +29,31 @@
 
 12/06/2024
  - Completed Blockchain Basics
- - Started the Solidity 101
- - Intro of Solidity
+ - Started the  Solidity 101
+ - Intro of  Solidity
 
 13/06/2024
- - Solidity
+ -  Solidity
    - Basic variable types
    - Functions
    
 14/06/2024
- - Solididty
+ -   Solidity
    - Arrays and Structs
    - Errors and Warnings
  - Build My first contract
 
 15/06/2024
- - Solididty
+ -   Solidity
    - Memory, Storage and Calldata
    - Basic of Mappings
  - Deployed my frist contract
  - Introduction to deploying and interacting with contracts, focusing on Remix Storage
  - Setting the project
  - Deploying a contract from a contract
+
+16/06/2024
+ -  Solidity
+   - Imports
+ - Use of AI in Solidity
  
