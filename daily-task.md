@@ -56,5 +56,5 @@
  -  Solidity
    - Imports
  - Use of AI in Solidity
- 
+ - Interacting with contracts using ABI (Application Binary Interface)
  
