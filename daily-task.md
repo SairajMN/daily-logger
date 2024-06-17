@@ -57,4 +57,7 @@
    - Imports
  - Use of AI in Solidity
  - Interacting with contracts using ABI (Application Binary Interface)
+
+17/06/2024
+ - Inheritance in SOlidity
  
