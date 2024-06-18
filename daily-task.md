@@ -60,4 +60,9 @@
 
 17/06/2024
  - Inheritance in SOlidity
- 
+   - AddFiveStorage
+ - Completed Section 2: Storage Factory
+
+18/06/2024
+ - Setting up new Contract using Solidity
+   -Fund Me (Payable Contract)
