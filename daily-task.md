@@ -65,5 +65,6 @@
 
 18/06/2024
  - Setting up new Contract using Solidity
-   -Fund Me (Payable Contract)
+   - Fund Me (Payable Contract)
  - Project Set-up
+   - Sending ETH through a function
