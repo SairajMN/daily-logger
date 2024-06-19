@@ -64,7 +64,14 @@
  - Completed Section 2: Storage Factory
 
 18/06/2024
- - Setting up new Contract using Solidity
-   - Fund Me (Payable Contract)
- - Project Set-up
-   - Sending ETH through a function
+ - SECTION - 3
+   - Setting up new Contract using Solidity
+     - Fund Me (Payable Contract)
+   - Project Set-up
+     - Sending ETH through a function
+
+19/06/2024
+ - Solidity
+   - Reverts
+ - Intro to oracles - getting real world price
+ - ReCap - From start of SEC-3.
