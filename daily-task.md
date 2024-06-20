@@ -75,3 +75,10 @@
    - Reverts
  - Intro to oracles - getting real world price
  - ReCap - From start of SEC-3.
+
+20/06/2024
+ - Solidity
+   - Interfaces
+   - Importing libaries from NPM and Github
+ - Learning how to CHAT-GPT AI to Debug errors
+    in the Contract
