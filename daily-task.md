@@ -82,3 +82,7 @@
    - Importing libaries from NPM and Github
  - Learning how to CHAT-GPT AI to Debug errors
     in the Contract
+
+21/06/2024
+ - Solidity
+   - Getting real world price data from Chainlink
