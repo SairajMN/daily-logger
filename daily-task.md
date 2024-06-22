@@ -86,3 +86,9 @@
 21/06/2024
  - Solidity
    - Getting real world price data from Chainlink
+
+22/06/2024
+ - Solidity
+   - Math
+   - Message sender
+ - Quick ReCap 
