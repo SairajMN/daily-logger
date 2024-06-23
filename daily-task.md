@@ -92,3 +92,9 @@
    - Math
    - Message sender
  - Quick ReCap 
+
+23/06/2024
+ - Solidity
+   - Creating own libraries
+   - Using Safemath.sol library
+   
