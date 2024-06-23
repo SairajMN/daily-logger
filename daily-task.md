@@ -99,3 +99,4 @@
    - Using Safemath.sol library
    - Using FOR Loop
    - Resetting Array 
+ - Sending ETH from a contract
