@@ -100,3 +100,7 @@
    - Using FOR Loop
    - Resetting Array 
  - Sending ETH from a contract
+
+24/06/2024
+ -  Smart contract constructor
+ -  Solidity function modifiers
