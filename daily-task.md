@@ -104,3 +104,6 @@
 24/06/2024
  -  Smart contract constructor
  -  Solidity function modifiers
+
+ 25/06/2024
+  - 
