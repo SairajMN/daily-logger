@@ -106,4 +106,4 @@
  -  Solidity function modifiers
 
  25/06/2024
-  - 
+  - Testing the smart contract without a testnet
