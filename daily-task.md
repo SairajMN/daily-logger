@@ -111,3 +111,7 @@
 26/06/2024
  - Advance Solidity
    - Immutability and constants
+ - Creating custom errors
+
+27/06/2024
+ - 
