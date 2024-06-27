@@ -114,4 +114,7 @@
  - Creating custom errors
 
 27/06/2024
- - 
+ - Solidity
+   - Implementing the receive fallback
+ - Quick ReCap
+ - Completed SECTION - 3 Fund Me
