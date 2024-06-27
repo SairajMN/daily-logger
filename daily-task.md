@@ -109,4 +109,5 @@
   - Testing the smart contract without a testnet
 
 26/06/2024
- - 
+ - Advance Solidity
+   - Immutability and constants
