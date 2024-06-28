@@ -118,3 +118,8 @@
    - Implementing the receive fallback
  - Quick ReCap
  - Completed SECTION - 3 Fund Me
+
+28/06/2024
+ - L1, L2 and Rollups
+ - Centralized sequencers
+ - Rollup Stages
