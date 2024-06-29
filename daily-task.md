@@ -123,3 +123,6 @@
  - L1, L2 and Rollups
  - Centralized sequencers
  - Rollup Stages
+
+29/06/2024
+ - 
