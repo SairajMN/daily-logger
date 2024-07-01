@@ -125,4 +125,6 @@
  - Rollup Stages
 
 29/06/2024
- - 
+ - ZK (Zero knowledge)
+ - ZK Rollups
+ - Making First Transaction On zkSync
