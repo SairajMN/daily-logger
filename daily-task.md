@@ -132,7 +132,7 @@
 
 
 30/06/2024
-  - ReCap - Updated parts of the course
+ - ReCap - Updated parts of the course
 
-  01/07/2024
-  - Making First Transaction On zkSync
+01/07/2024
+ - Making First Transaction On zkSync
