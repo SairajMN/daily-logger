@@ -120,11 +120,19 @@
  - Completed SECTION - 3 Fund Me
 
 28/06/2024
+ - Updated part of Blockchain Basics
  - L1, L2 and Rollups
  - Centralized sequencers
- - Rollup Stages
+ 
 
 29/06/2024
+ - Rollup Stages
  - ZK (Zero knowledge)
  - ZK Rollups
  - Making First Transaction On zkSync
+
+ 30/06/2024
+  - ReCap - Updated parts of the course
+
+  01/07/2024
+  - 
