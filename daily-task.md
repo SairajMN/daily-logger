@@ -1,4 +1,4 @@
-## The daily tasks logged here
+## The daily tasks logged here 
 
 07/06/2024
  - Started Blockchain & Smart Security
@@ -136,3 +136,7 @@
 
 01/07/2024
  - Making First Transaction On zkSync
+ - 
+
+ 02/07/2024
+ - 
