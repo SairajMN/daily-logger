@@ -141,4 +141,4 @@
 
  02/07/2024
  - Solidity Fundamentals
- 
+ - zkSync Deploying
