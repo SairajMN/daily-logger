@@ -137,6 +137,7 @@
 01/07/2024
  - Making First Transaction On zkSync
  - Bridging Funds
+   - From Sepolia testnet to zkSync Sepolia
 
  02/07/2024
  - 
