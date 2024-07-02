@@ -136,7 +136,7 @@
 
 01/07/2024
  - Making First Transaction On zkSync
- - 
+ - Bridging Funds
 
  02/07/2024
  - 
