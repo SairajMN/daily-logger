@@ -147,3 +147,4 @@
  03/07/2024
  - zkSync plugin
  - zkSync interactions
+ - Deploying to zkSync
