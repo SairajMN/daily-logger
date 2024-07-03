@@ -142,4 +142,8 @@
  02/07/2024
  - Solidity Fundamentals
  - zkSync Deploying
-  -zkSync Bridging
+ - zkSync Bridging
+
+ 03/07/2024
+ - 
+
