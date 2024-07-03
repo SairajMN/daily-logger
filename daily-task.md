@@ -145,5 +145,5 @@
  - zkSync Bridging
 
  03/07/2024
- - 
+ - zkSync plugin
 
