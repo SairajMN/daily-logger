@@ -139,12 +139,15 @@
  - Bridging Funds
    - From Sepolia testnet to zkSync Sepolia
 
- 02/07/2024
+02/07/2024
  - Solidity Fundamentals
  - zkSync Deploying
  - zkSync Bridging
 
- 03/07/2024
+03/07/2024
  - zkSync plugin
  - zkSync interactions
  - Deploying to zkSync
+
+04/07/2024
+ - 
