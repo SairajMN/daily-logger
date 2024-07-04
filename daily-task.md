@@ -153,8 +153,12 @@
  - Completed Updated SECTION - 3 Fund Me
  - Started New Section
    - Section 4 : AI prompting
- - AI and Forums
- - Triage
- - Setting up Github
- - Formating Question
- - Speedrun ETH
+   - AI and Forums
+   - Triage
+   - Setting up Github
+   - Formating Question
+   - Speedrun ETH
+ - Complete Section 4 : AI prompting
+ - Completed Solidity 101
+ 
+
