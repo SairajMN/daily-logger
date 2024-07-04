@@ -150,6 +150,7 @@
  - Deploying to zkSync
 
 04/07/2024
- - 
- - Section 4 : AI prompting.
+ - Completed Updated SECTION - 3 Fund Me
+ - Started New Section
+   - Section 4 : AI prompting.
  - 
