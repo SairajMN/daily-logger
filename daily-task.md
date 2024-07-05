@@ -165,5 +165,6 @@
  - Foundry Fundamentals
    - Section 1 : Foundry Simple Storage
      - Introduction - Foundry Simple Storage
-
+ - Development Environment Setup in Windows
+ - 
 
