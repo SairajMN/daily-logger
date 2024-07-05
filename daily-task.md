@@ -164,4 +164,6 @@
 05/07/2024
  - Foundry Fundamentals
    - Section 1 : Foundry Simple Storage
+     - Introduction - Foundry Simple Storage
+
 
