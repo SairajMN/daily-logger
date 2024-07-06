@@ -170,5 +170,6 @@
  - Foundry Setup
  
 06/07/2024
+ - VS Code Setup 
  - Deploying Foundry Simple Storage Contract
- - 
+
