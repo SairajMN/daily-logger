@@ -170,4 +170,5 @@
  - Foundry Setup
  
 06/07/2024
- -
+ - Deploying Foundry Simple Storage Contract
+ - 
