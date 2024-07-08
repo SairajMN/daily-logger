@@ -205,3 +205,9 @@
 
 - Foundry Setup Wsl
 - VSCode Solidity setup
+
+08/07/2024
+
+- Creating Foundry Simple Storage comtract
+- Compileing a smart contract using Foundry
+- Deploying a smart contract
