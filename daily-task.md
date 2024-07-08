@@ -203,4 +203,5 @@
 
 07/07/2024
 
--
+- Foundry Setup Wsl
+- VSCode Solidity setup
