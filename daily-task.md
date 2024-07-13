@@ -219,3 +219,4 @@
 13/07/2024
 
 - Deploying a smart contract to the local blockchain ANVIL
+- Adding new network to Metamask Account
