@@ -211,3 +211,11 @@
 - Creating Foundry Simple Storage comtract
 - Compileing a smart contract using Foundry
 - Deploying a smart contract
+
+09/07/2024 to 12/072024
+
+- parctical exams
+
+13/07/2024
+
+- Deploying a smart contract to the local blockchain ANVIL
