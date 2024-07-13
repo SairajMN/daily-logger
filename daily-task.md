@@ -220,3 +220,4 @@
 
 - Deploying a smart contract to the local blockchain ANVIL
 - Adding new network to Metamask Account
+- Deploying Smart contract locally using forge
