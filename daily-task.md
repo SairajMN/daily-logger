@@ -229,3 +229,4 @@
 - Learnt about Transaction
 - private key safety 2
 - lesson - 19
+- Interacting with a smart contract using the CLI
