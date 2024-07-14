@@ -228,4 +228,4 @@
 - Deploying a smart contract to the local blockchain iii
 - Learnt about Transaction
 - private key safety 2
--
+- lesson - 19
