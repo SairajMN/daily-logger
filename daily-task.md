@@ -221,9 +221,11 @@
 - Deploying a smart contract to the local blockchain ANVIL
 - Adding new network to Metamask Account
 - Deploying Smart contract locally using forge
-- private key rant 1
+- private key safety 1
 
 14/07/2024
 
-- Deploying a smart contract to the local blockchain ii
+- Deploying a smart contract to the local blockchain iii
+- Learnt about Transaction
+- private key safety 2
 -
