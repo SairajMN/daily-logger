@@ -228,9 +228,9 @@
 - Deploying a smart contract to the local blockchain iii
 - Learnt about Transaction
 - private key safety 2
-- lesson - 19
-- Interacting with a smart contract using the CLI
+- IMPORTANT
+  - Never use A Env file
 
 15/07/2024
 
--
+- Interacting with a smart contract using the CLI
