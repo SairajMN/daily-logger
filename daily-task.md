@@ -236,3 +236,8 @@
 - Interacting with a smart contract using the CLI
 - Deploying a Smart contract on testnet(SEPOLIA)
 - Verifying a smart contract on Etherscan (IMP)
+
+16/07/2024
+
+- Cleaninng up the project
+- 
