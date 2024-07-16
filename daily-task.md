@@ -240,4 +240,6 @@
 16/07/2024
 
 - Cleaninng up the project
+- Foundry Zksync
+- Compiling Foundry Zksync
 - 
