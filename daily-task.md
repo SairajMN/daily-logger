@@ -242,4 +242,4 @@
 - Cleaninng up the project
 - Foundry Zksync
 - Compiling Foundry Zksync
-- 
+- Deploying to zkSync with Foundry
