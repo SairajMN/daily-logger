@@ -249,6 +249,7 @@
 - Zksync Local Node
 - Zksync Local Deploy
 - Transaction Types
-- Lession 28 - Why L2
+- Lesson 28 - Why L2
 - Introduction to Alchemy
-- Completed Foundry Simple Storage contract
+-Section 1 : 
+  -Completed Foundry Simple Storage contract lesson
