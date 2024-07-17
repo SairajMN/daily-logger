@@ -243,3 +243,8 @@
 - Foundry Zksync
 - Compiling Foundry Zksync
 - Deploying to zkSync with Foundry
+
+17/07/2024
+
+- Zksync Local Node
+- Zksync Local Deploy
