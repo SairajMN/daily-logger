@@ -248,3 +248,5 @@
 
 - Zksync Local Node
 - Zksync Local Deploy
+- Transaction Types
+- Lession 28 - Why L2
