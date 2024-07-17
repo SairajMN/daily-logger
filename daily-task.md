@@ -250,6 +250,6 @@
 - Zksync Local Deploy
 - Transaction Types
 - Lesson 28 - Why L2
-- Introduction to Alchemy
+- Introduction to Alchemy and mempool
 - Section 1 : 
   - Completed Foundry Simple Storage contract lesson
