@@ -251,5 +251,5 @@
 - Transaction Types
 - Lesson 28 - Why L2
 - Introduction to Alchemy
--Section 1 : 
-  -Completed Foundry Simple Storage contract lesson
+- Section 1 : 
+  - Completed Foundry Simple Storage contract lesson
