@@ -259,3 +259,4 @@
 - Startted SECTION 2
    - Foundry Fund Me
  - Introduction 
+ - Fund Me project setup
