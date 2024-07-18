@@ -253,3 +253,9 @@
 - Introduction to Alchemy and mempool
 - Section 1 : 
   - Completed Foundry Simple Storage contract lesson
+
+18/07/2024
+
+- Startted SECTION 2
+   - Foundry Fund Me
+ - Introduction 
