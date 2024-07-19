@@ -259,4 +259,10 @@
 - Startted SECTION 2
    - Foundry Fund Me
  - Introduction 
- - Fund Me project setup
+- Fund Me project setup
+  
+19/07/2024
+
+- Introduction to smart contracts testing
+- Finishing the setup
+- Writing tests for Solidity smart contract
