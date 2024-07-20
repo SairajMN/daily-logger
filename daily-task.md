@@ -256,12 +256,16 @@
 
 18/07/2024
 
-- Startted SECTION 2
+- Quick Recap of Foundry Simle Storage
+  
+19/07/2024
+
+- Started SECTION 2
    - Foundry Fund Me
  - Introduction 
 - Fund Me project setup
   
-19/07/2024
+20/07/2024
 
 - Introduction to smart contracts testing
 - Finishing the setup
