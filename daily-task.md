@@ -256,7 +256,7 @@
 
 18/07/2024
 
-- Quick Recap of Foundry Simle Storage
+- Quick Recap of Foundry Simple Storage
   
 19/07/2024
 
