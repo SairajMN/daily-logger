@@ -270,3 +270,8 @@
 - Introduction to smart contracts testing
 - Finishing the setup
 - Writing tests for Solidity smart contract
+
+24/07/2024
+
+- Recap lesson 1 to lesson 5
+- Debug the solidity tests
