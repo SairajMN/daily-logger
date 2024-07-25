@@ -276,3 +276,7 @@
 - Recap lesson 1 to lesson 5
 - Debug the solidity tests
 - Advanced deploy scripts
+
+25/07/2024
+
+- 
