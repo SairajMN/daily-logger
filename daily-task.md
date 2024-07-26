@@ -281,3 +281,7 @@
 
 - Running tests on chains forks
 - Refactoring your tests
+
+26/07/2024
+
+- Deploying a mock priceFeed
