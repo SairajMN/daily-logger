@@ -289,3 +289,5 @@
 27/07/2024
 
 - Refactoring the mock smart contract
+- Refactoring of Magic number
+- Refactoring the mock smart contract 2
