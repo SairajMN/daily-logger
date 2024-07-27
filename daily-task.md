@@ -288,4 +288,4 @@
 
 27/07/2024
 
-- 
+- Refactoring the mock smart contract
