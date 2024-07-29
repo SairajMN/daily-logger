@@ -299,4 +299,5 @@
 
 29/07/2024
 
-- 
+- Calculating Withdraw GAS costs
+- Introduction to Storage optimization
