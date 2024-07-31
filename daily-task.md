@@ -307,3 +307,6 @@
 - No commits
   
 31/07/2024
+
+- Recap from lesson 6 to lesson 18
+- 
