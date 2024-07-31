@@ -301,3 +301,8 @@
 
 - Calculating Withdraw GAS costs
 - Introduction to Storage optimization
+
+30/07/2024
+
+- No commits
+  
