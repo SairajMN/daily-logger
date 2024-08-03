@@ -309,4 +309,5 @@
 31/07/2024
 
 - Recap from lesson 6 to lesson 18
-- 
+
+  ## 1 to 13 BCA Theory exams
