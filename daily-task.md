@@ -314,5 +314,6 @@
 
 15/07/2024
 
+- Recap of previous contracts
 - Optimising the withdraw function gas costs
 
