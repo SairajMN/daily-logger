@@ -312,3 +312,7 @@
 
   ## From AUG 1 to 13 BCA Theory exams.
 
+15/07/2024
+
+- Optimising the withdraw function gas costs
+
