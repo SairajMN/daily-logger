@@ -317,3 +317,9 @@
 - Recap of previous contracts
 - Optimising the withdraw function gas costs
 
+16/07/2024
+
+- Creating integration tests
+
+
+
