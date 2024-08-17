@@ -321,5 +321,8 @@
 
 - Creating integration tests
 
+17/07/2024
+
+- Automating smart contracts actions
 
 
