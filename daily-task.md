@@ -312,17 +312,20 @@
 
   ## From AUG 1 to 13 BCA Theory exams.
 
-15/07/2024
+15/08/2024
 
 - Recap of previous contracts
 - Optimising the withdraw function gas costs
 
-16/07/2024
+16/08/2024
 
 - Creating integration tests
 
-17/07/2024
+17/08/2024
 
 - Automating smart contracts actions
 
+19/08/2024
+
+- Zksync Devops
 
