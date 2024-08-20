@@ -330,6 +330,7 @@
 - Zksync Devops
 
 20/08/2024
+
 - Pushing to Github
 - Section RECap 
 - Completed the Section 2
