@@ -331,7 +331,10 @@
 
 20/08/2024
 
-- Pushing to Github
-- Section RECap 
+- Pushing to GitHub 
 - Completed the Section 2
+
+21/08/2024
+
+- Recap : Section 2
 
