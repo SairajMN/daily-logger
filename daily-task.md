@@ -335,3 +335,8 @@
 - Section RECap 
 - Completed the Section 2
 
+21/08/2024
+
+- Started Section - 3
+  - Fund Me Frontend
+- Intro to Fund Me Frontend
