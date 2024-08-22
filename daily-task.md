@@ -331,12 +331,16 @@
 
 20/08/2024
 
-- Pushing to Github
-- Section RECap 
+- Pushing to GitHub 
 - Completed the Section 2
 
 21/08/2024
 
+<<<<<<< HEAD
 - Started Section - 3
   - Fund Me Frontend
 - Intro to Fund Me Frontend
+=======
+- Recap : Section 2
+
+>>>>>>> origin/main
