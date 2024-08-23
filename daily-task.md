@@ -336,11 +336,12 @@
 
 21/08/2024
 
-<<<<<<< HEAD
 - Started Section - 3
   - Fund Me Frontend
 - Intro to Fund Me Frontend
-=======
 - Recap : Section 2
 
->>>>>>> origin/main
+22/08/2024
+
+- How Metamask interacts with dapps
+- Introduction to window.ethereum
