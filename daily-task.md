@@ -345,3 +345,7 @@
 
 - How Metamask interacts with dapps
 - Introduction to window.ethereum
+
+23/08/2024
+
+- Decoding Ethereum transactions
