@@ -349,3 +349,12 @@
 23/08/2024
 
 - Decoding Ethereum transactions
+
+24/08/2024
+
+- Buliding new demo contract
+
+27/08/2024
+
+- Recap Section 3
+- Completed Section 3
