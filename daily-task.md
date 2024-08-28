@@ -358,3 +358,9 @@
 
 - Recap Section 3
 - Completed Section 3
+
+28/08/2024
+
+- Started Section 4
+  - Smart contract lottery
+- Introduction 
