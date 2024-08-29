@@ -364,3 +364,8 @@
 - Started Section 4
   - Smart contract lottery
 - Introduction 
+
+29/08/2024
+
+- Smart contract lottery - Project setup
+- Solidity style guide
