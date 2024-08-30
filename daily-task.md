@@ -369,3 +369,8 @@
 
 - Smart contract lottery - Project setup
 - Solidity style guide
+
+30/08/2024
+
+- Creating custom errors
+- Smart contracts events
