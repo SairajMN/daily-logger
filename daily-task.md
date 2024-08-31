@@ -374,3 +374,9 @@
 
 - Creating custom errors
 - Smart contracts events
+
+31/08/2024
+
+- Random numbers 
+   - Block Timestamp
+   - Introduction to Chainlink VRF
