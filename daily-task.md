@@ -380,3 +380,12 @@
 - Random numbers 
    - Block Timestamp
    - Introduction to Chainlink VRF
+
+02/09/2024
+
+- Implement the Chainlink VRF
+  
+03/09/2024
+
+- Implementing VRF Fulfil
+- The modulo operation
