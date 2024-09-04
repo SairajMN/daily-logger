@@ -389,3 +389,8 @@
 
 - Implementing VRF Fulfil
 - The modulo operation
+
+04/09/2024
+
+- Implementing the lottery state - Enum
+- Lottery restart - Resetting an Array
