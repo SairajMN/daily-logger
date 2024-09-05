@@ -394,3 +394,8 @@
 
 - Implementing the lottery state - Enum
 - Lottery restart - Resetting an Array
+
+05/09/2024
+
+- Important : Note on learning by building
+- The CEI method - Checks, Effects, Interactions
