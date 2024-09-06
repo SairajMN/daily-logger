@@ -399,3 +399,8 @@
 
 - Important : Note on learning by building
 - The CEI method - Checks, Effects, Interactions
+
+06/09/2024
+
+- Introduction to Chainlink Automation
+- Implementing Chainlink Automation
