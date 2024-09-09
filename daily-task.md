@@ -404,3 +404,8 @@
 
 - Introduction to Chainlink Automation
 - Implementing Chainlink Automation
+
+09/09/2024
+
+- Custom error
+- Section Recap
