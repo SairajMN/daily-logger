@@ -409,3 +409,8 @@
 
 - Custom error
 - Section Recap
+
+10/09/2024
+
+- Testing and Deploying the lottery smart contract
+- Deploy Script
