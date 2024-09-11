@@ -414,3 +414,9 @@
 
 - Testing and Deploying the lottery smart contract
 - Deploy Script
+
+11/09/2024
+
+- Deploy a mock Chainlink VRF
+- Testing and deploying the lottery Smart contract - 2
+- setting up the tests
