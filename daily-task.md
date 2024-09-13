@@ -420,3 +420,9 @@
 - Deploy a mock Chainlink VRF
 - Testing and deploying the lottery Smart contract - 2
 - setting up the tests
+
+13/09/2024
+
+- Headers
+- Adding more tests
+- Testing events
