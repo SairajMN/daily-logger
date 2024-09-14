@@ -426,3 +426,8 @@
 - Headers
 - Adding more tests
 - Testing events
+
+14/09/2024
+
+- Using vm.roll and vm.wrap
+- Subscribing to events
