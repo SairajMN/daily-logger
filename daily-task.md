@@ -431,3 +431,8 @@
 
 - Using vm.roll and vm.wrap
 - Subscribing to events
+
+17/09/2024
+
+- Creating the subscription UI
+- Fund subscription
