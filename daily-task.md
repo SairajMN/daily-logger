@@ -436,3 +436,9 @@
 
 - Creating the subscription UI
 - Fund subscription
+
+18/09/2024
+
+- Adding a consumer
+- Even more Tests
+- Coverage Report
