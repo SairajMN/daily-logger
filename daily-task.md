@@ -442,3 +442,8 @@
 - Adding a consumer
 - Even more Tests
 - Coverage Report
+
+23/09/2024
+
+- Testing and refactoring the performUpkeep
+- Refactoring events data
