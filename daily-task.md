@@ -447,3 +447,8 @@
 
 - Testing and refactoring the performUpkeep
 - Refactoring events data
+
+24/09/2024
+
+- Intro to fuzz testing
+- make another big test
