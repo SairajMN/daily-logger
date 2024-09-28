@@ -457,3 +457,8 @@
 
 - Forked test env and Dynamic private keys
 - Creaing integration tests
+
+28/09/2024
+
+- Deploying the lottery on the testnet
+- 
