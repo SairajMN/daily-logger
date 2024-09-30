@@ -461,4 +461,9 @@
 28/09/2024
 
 - Deploying the lottery on the testnet
-- 
+
+30/09/2024
+
+ - Implementing console log in the smart contract
+ - Debug using forge test
+  
