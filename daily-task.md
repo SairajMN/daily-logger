@@ -467,3 +467,6 @@
  - Implementing console log in the smart contract
  - Debug using forge test
   
+01/01/2024
+
+- Section recap
