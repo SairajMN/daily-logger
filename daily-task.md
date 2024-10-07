@@ -474,3 +474,8 @@
 04/10/2024
 
 - Completed Foundry Fundmental
+
+07/10/2024
+
+- Started Advanced Foundry
+   - Introduction to Developing an ERC20
