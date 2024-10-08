@@ -479,3 +479,10 @@
 
 - Started Advanced Foundry
    - Introduction to Developing an ERC20
+
+
+08/10/2024
+
+- Fundamentals of ERC20
+- Creaing an ERC20
+- Exploreing Open Zeppelin
