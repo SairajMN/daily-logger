@@ -486,3 +486,11 @@
 - Fundamentals of ERC20
 - Creaing an ERC20
 - Exploreing Open Zeppelin
+
+09/10/2024
+
+- Deploying ERC20 crypto currency
+- testing ERC20
+- Part 1 of Advanced foundry 
+   - Completed
+- Started Developing an NFTs Collection
