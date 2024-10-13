@@ -494,3 +494,8 @@
 - Part 1 of Advanced foundry 
    - Completed
 - Started Developing an NFTs Collection
+
+13/10/2024
+
+- Intro to NFTs
+- Foundry setup
