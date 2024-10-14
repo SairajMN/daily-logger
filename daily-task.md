@@ -499,3 +499,8 @@
 
 - Intro to NFTs
 - Foundry setup
+
+14/10/2024
+
+- Intro to IPFS
+- use of IPFS
