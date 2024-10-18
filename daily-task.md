@@ -504,3 +504,8 @@
 
 - Intro to IPFS
 - use of IPFS
+
+18/10/2024
+
+- previous SECTION recap
+- Writing the deployment Script
