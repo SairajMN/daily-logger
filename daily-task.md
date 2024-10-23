@@ -208,7 +208,7 @@
 
 08/07/2024
 
-- Creating Foundry Simple Storage comtract
+- Creating Foundry Simple Storage com
 - Compileing a smart contract using Foundry
 - Deploying a smart contract
 
@@ -509,3 +509,7 @@
 
 - previous SECTION recap
 - Writing the deployment Script
+
+23/10/24
+
+- testing NFTs smart contract
