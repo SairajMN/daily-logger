@@ -513,3 +513,9 @@
 23/10/24
 
 - testing NFTs smart contract
+
+28/10/24
+
+- Interacting with a smart contract
+- Deploying NFTs on testnet
+- IPFS and pinata vs HTTPS vs on chain SVGs
