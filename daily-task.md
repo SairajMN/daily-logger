@@ -519,3 +519,8 @@
 - Interacting with a smart contract
 - Deploying NFTs on testnet
 - IPFS and pinata vs HTTPS vs on chain SVGs
+
+30/10/2024
+
+- Introduction to SVGs
+- Creaing a Dynamic NFTs Collection
