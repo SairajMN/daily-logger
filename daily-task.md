@@ -524,3 +524,8 @@
 
 - Introduction to SVGs
 - Creaing a Dynamic NFTs Collection
+
+04/11/2024
+
+- Encoding the SVGs
+- Modifing the NFTs image onchain
