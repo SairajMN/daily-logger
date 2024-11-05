@@ -529,3 +529,8 @@
 
 - Encoding the SVGs
 - Modifing the NFTs image onchain
+
+05/11/2024
+
+- SECTION recap
+- revised all Contracts
