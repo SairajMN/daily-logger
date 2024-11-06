@@ -534,3 +534,8 @@
 
 - SECTION recap
 - revised all Contracts
+
+06/11/2024
+
+- Creating the deployment Script
+- Debuging smart contract
