@@ -539,3 +539,8 @@
 
 - Creating the deployment Script
 - Debuging smart contract
+
+10/11/2024
+
+- Deploying and interacting using ANVIL
+- Intro to Filecoin and Arweave
