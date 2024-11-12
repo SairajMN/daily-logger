@@ -544,3 +544,7 @@
 
 - Deploying and interacting using ANVIL
 - Intro to Filecoin and Arweave
+
+12/11/2024
+
+- Advanced EVM - Opcodes, calling, etc
