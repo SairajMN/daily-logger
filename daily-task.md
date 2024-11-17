@@ -548,3 +548,7 @@
 12/11/2024
 
 - Advanced EVM - Opcodes, calling, etc
+
+17/11/2024
+
+- Section recap 
