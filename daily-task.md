@@ -548,3 +548,8 @@
 12/11/2024
 
 - Advanced EVM - Opcodes, calling, etc
+
+19/11/2024
+
+- EVM signature selectors
+- Verifying a transactionin MetaMask
