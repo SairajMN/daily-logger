@@ -557,3 +557,7 @@
 
 - EVM signatures selectors
 - Verifying a transaction in MetaMask
+
+20/11/2024
+
+- Completed SECTION 2 of Advance Foundry
