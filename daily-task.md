@@ -561,3 +561,13 @@
 20/11/2024
 
 - Completed SECTION 2 of Advance Foundry
+
+21/11/2024
+
+- Started New Section-3
+  - Develop a DeFi protocol
+- DeFi Introduction
+
+- Started Another new course about ML 
+  - Introduction to ML
+  - Types of ML System
