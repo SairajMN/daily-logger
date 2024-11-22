@@ -571,3 +571,18 @@
 - Started Another new course about ML 
   - Introduction to ML
   - Types of ML System
+
+22/11/2024
+
+- Project Code walkthrough
+- Introduction to stablecoins
+
+- ML
+  - Supervised Learning and it two most comman used cases
+    - Regression model
+     - linear Regression
+     - logistic Regression
+    - Classificati0n model
+     - Binary Classification
+     - multi-class Classification
+  
