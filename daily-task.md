@@ -585,4 +585,11 @@
     - Classificati0n model
      - Binary Classification
      - multi-class Classification
+
+23/11/2024
+
+- Creating new project DecentralizedStableCoin.sol
   
+- ML
+  - Reinforcement learning
+  - Generative AI
