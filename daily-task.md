@@ -593,3 +593,10 @@
 - ML
   - Reinforcement learning
   - Generative AI
+
+27/11/2024
+
+- Project setup - DSCEngine
+
+- ML 
+  - Completed Introduction to ML
