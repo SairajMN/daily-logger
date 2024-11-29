@@ -600,3 +600,8 @@
 
 - ML 
   - Completed Introduction to ML
+
+29/11/2024
+
+- Creaing the deposit collateral function
+- Creating the mint function
