@@ -605,3 +605,11 @@
 
 - Creaing the deposit collateral function
 - Creating the mint function
+
+1/12/2024
+
+- Creaing and retrieving the health Factor
+- Finishing the mint function
+
+- ML
+- Linear Regression
