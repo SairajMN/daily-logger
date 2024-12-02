@@ -606,10 +606,15 @@
 - Creaing the deposit collateral function
 - Creating the mint function
 
-1/12/2024
+01/12/2024
 
 - Creaing and retrieving the health Factor
 - Finishing the mint function
 
 - ML
-- Linear Regression
+  - Linear Regression
+
+02/12/2024
+
+- Creating the deployment Script
+- Testing the DSCEngine smart contract
