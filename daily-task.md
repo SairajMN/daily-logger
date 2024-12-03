@@ -618,3 +618,8 @@
 
 - Creating the deployment Script
 - Testing the DSCEngine smart contract
+
+03/12/2024
+
+- Creating the depositAndMint function
+- Creating the redeem collateral function
