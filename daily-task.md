@@ -623,3 +623,14 @@
 
 - Creating the depositAndMint function
 - Creating the redeem collateral function
+
+
+## RESTARTING THE CYFRIN UPDRAFT
+
+04/05/2025
+
+- Blockchain basics 
+      - what is blockchain
+      - how blockchain works.
+- what is smart contract 
+- worked on my E-co web application (using react, node.js, MySQL12) 
