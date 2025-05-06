@@ -634,3 +634,10 @@
       - how blockchain works.
 - what is smart contract 
 - worked on my E-co web application (using react, node.js, MySQL12) 
+
+05/05/2025
+
+- Transactions
+    - what is transaction
+    - how transaction are made?
+- worked on my E-co web application (updated the css and added some new desing too every page)   here is my git hub profile https://github.com/SairajMN
