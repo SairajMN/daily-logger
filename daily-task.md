@@ -650,6 +650,6 @@
 
 07/05/2025
 
-- making transcation on zkSync
+- making transaction on zkSync
 - Solidity fundamentals
-- adding new php peoject to GitHub
+- adding new php project to GitHub
