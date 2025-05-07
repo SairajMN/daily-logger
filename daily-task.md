@@ -641,3 +641,10 @@
     - what is transaction
     - how transaction are made?
 - worked on my E-co web application (updated the css and added some new desing too every page)   here is my git hub profile https://github.com/SairajMN
+
+06/05/2025
+
+- L1s L2s and Rollups
+- Centralized Sequencers 1
+- Rollup Stages
+
