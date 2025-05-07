@@ -652,4 +652,4 @@
 
 - making transcation on zkSync
 - Solidity fundamentals
-- adding new php peoject to GitHub profile
+- adding new php peoject to GitHub
