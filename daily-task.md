@@ -648,3 +648,8 @@
 - Centralized Sequencers 1
 - Rollup Stages
 
+07/05/2025
+
+- making transcation on zkSync
+- Solidity fundamentals
+- adding new php peoject to GitHub profile
