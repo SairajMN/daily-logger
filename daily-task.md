@@ -653,3 +653,11 @@
 - making transaction on zkSync
 - Solidity fundamentals
 - adding new php project to GitHub
+
+08/05/2025
+
+- Setting up a contract
+- Basic variable types
+- functions
+- Arrays and structs
+- Errors and warnings
