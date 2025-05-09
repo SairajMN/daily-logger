@@ -661,3 +661,17 @@
 - functions
 - Arrays and structs
 - Errors and warnings
+
+09/05/2025
+
+- shopping portal
+  - languages used
+    - PHP
+    - JS
+    - HTML
+    - CSS
+    - others
+- Solidity
+  - Memory and warnings
+  - Mappinngs
+  - Deploying the contract
