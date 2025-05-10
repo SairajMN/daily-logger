@@ -675,3 +675,10 @@
   - Memory and warnings
   - Mappinngs
   - Deploying the contract
+
+10/05/2025
+
+- ZkSync Deploying
+- ZkSync Bridging
+- ZkSync Plugin
+- ZkSync Interations
