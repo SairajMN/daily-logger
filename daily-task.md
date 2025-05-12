@@ -689,3 +689,8 @@
 - setting the project
 - Deploying a contract from a contract
 - Solidity imports
+
+12/05/2025
+
+- Interacting with contracts ABI
+- Inheritance in solidity
