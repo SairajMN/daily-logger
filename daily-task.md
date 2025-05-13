@@ -694,3 +694,9 @@
 
 - Interacting with contracts ABI
 - Inheritance in solidity
+
+13/05/2025
+
+- Section Recap
+    - 04/05 - 12/05
+- Intro to FundMe contract 
