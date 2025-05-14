@@ -700,3 +700,9 @@
 - Section Recap
     - 04/05 - 12/05
 - Intro to FundMe contract 
+
+14/05/2025
+
+- Project setup
+- Sending ETH through function
+- Solidity reverts
