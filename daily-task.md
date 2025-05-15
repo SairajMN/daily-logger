@@ -706,3 +706,8 @@
 - Project setup
 - Sending ETH through function
 - Solidity reverts
+
+15/05/2025
+
+- Intro to oracles -getting into real world price data
+- solidity interfaces
