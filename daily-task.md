@@ -718,3 +718,8 @@
 - Deploying contract to testnet.
 - working on my php web application
 
+17/05/2025
+
+- Importing Lib from npm and GitHub
+- Getting real world price data from Chainlink
+- Solidity Math
