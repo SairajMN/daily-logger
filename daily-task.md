@@ -711,3 +711,10 @@
 
 - Intro to oracles -getting into real world price data
 - solidity interfaces
+
+16/05/2025
+
+- Setting up FundMe contract 
+- Deploying contract to testnet.
+- working on my php web application
+
