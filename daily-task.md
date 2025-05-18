@@ -723,3 +723,9 @@
 - Importing Lib from npm and GitHub
 - Getting real world price data from Chainlink
 - Solidity Math
+
+18/05/2025
+
+- Creating my own libraries
+- Using safemath
+- Solidity for loop
