@@ -729,3 +729,12 @@
 - Creating my own libraries
 - Using safemath
 - Solidity for loop
+
+19/05/2025
+
+- Recap of previous section
+
+20/05/2025
+
+- Resetting an Array
+- sending ETH from a contarct
