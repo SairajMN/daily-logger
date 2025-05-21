@@ -738,3 +738,8 @@
 
 - Resetting an Array
 - sending ETH from a contarct
+
+21/05/2025
+
+- Smart contract constructor
+- Solidity function modifiers
