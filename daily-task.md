@@ -743,3 +743,4 @@
 
 - Smart contract constructor
 - Solidity function modifiers
+- Test the smart contract with a testnet
