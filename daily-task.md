@@ -744,3 +744,10 @@
 - Smart contract constructor
 - Solidity function modifiers
 - Test the smart contract with a testnet
+
+22/05/2025
+
+- Immutability and constants
+- Creating custom errors
+- Implementing the receive fallback
+- taking Quiz 
