@@ -751,3 +751,8 @@
 - Creating custom errors
 - Implementing the receive fallback
 - taking Quiz 
+
+23/05/2025
+
+- Deploying to Zksync 
+- AI and forums
