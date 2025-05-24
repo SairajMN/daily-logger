@@ -756,3 +756,9 @@
 
 - Deploying to Zksync 
 - AI and forums
+
+24/05/2025
+
+- AI
+  - Triage
+  - Formatting a question
