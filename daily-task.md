@@ -762,3 +762,8 @@
 - AI
   - Triage
   - Formatting a question
+
+26/05/2025
+
+- Worked on my new shopping portal project based on php
+- added client page to shopping portal
