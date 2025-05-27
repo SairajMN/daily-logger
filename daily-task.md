@@ -767,3 +767,10 @@
 
 - Worked on my new shopping portal project based on php
 - added client page to shopping portal
+
+27/05/2025
+
+- Foundry
+    - introduction
+    - Development enviroment setup
+    - Developing in cloud using Gitpod
