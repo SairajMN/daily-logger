@@ -774,3 +774,10 @@
     - introduction
     - Development enviroment setup
     - Developing in cloud using Gitpod
+  
+28/05/2025
+
+- Foundry intstalization
+- Local setup
+- foundry setup
+  
