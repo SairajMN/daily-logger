@@ -780,4 +780,10 @@
 - Foundry intstalization
 - Local setup
 - foundry setup
+
+30/05/2025
+
+- Creating a New Foundry project
+- VSCode Solidity setup
+- Compliing a Smart contract using Foundry
   
