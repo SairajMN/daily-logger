@@ -790,5 +790,5 @@
 31/05/2025
 
 - Deploying a smart contract locally using Anvil
-- Deployinng a smart contract locally using Forge
+- Deploying a smart contract locally using Forge
   
