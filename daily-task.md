@@ -786,4 +786,9 @@
 - Creating a New Foundry project
 - VSCode Solidity setup
 - Compliing a Smart contract using Foundry
+
+31/05/2025
+
+- Deploying a smart contract locally using Anvil
+- Deployinng a smart contract locally using Forge
   
