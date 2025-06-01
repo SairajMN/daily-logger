@@ -792,3 +792,8 @@
 - Deploying a smart contract locally using Anvil
 - Deploying a smart contract locally using Forge
   
+01/06/2025
+
+- Private key saftey
+- learning about .env
+- risks of .env file in smart contracts
