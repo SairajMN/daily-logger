@@ -797,3 +797,10 @@
 - Private key saftey
 - learning about .env
 - risks of .env file in smart contracts
+
+02/06/2025
+
+- interacting with a smart contract using the CLI
+- Deploying a smart contract using testnet (Sepolia)
+- Quiz
+- verifying a smart contract on Etherscan
