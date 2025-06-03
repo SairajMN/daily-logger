@@ -804,3 +804,8 @@
 - Deploying a smart contract using testnet (Sepolia)
 - Quiz
 - verifying a smart contract on Etherscan
+  
+03/06/2025
+
+- Foundry Zksync
+- Compling Foundry Zksync
