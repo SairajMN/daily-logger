@@ -809,3 +809,9 @@
 
 - Foundry Zksync
 - Compling Foundry Zksync
+
+04/06/2025
+
+- Zksync Local Node
+  - Deploying to Zksync with foundry
+  - Zksync Local Deploy
