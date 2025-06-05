@@ -815,3 +815,10 @@
 - Zksync Local Node
   - Deploying to Zksync with foundry
   - Zksync Local Deploy
+
+05/06/2025
+
+- Transaction Types in EVM and zkSync
+- Why Deploying to L2 over Ethereum L1
+- Introduction to Alchemy
+- quick Quiz
