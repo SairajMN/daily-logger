@@ -822,3 +822,10 @@
 - Why Deploying to L2 over Ethereum L1
 - Introduction to Alchemy
 - quick Quiz
+
+06/06/2025
+
+- Foundry Fund Me
+   - Introduction
+   - Fund Me project setup
+   - Introduction to smart contracts testing
