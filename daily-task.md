@@ -829,3 +829,9 @@
    - Introduction
    - Fund Me project setup
    - Introduction to smart contracts testing
+
+07/06/2025
+
+- Finishing setup
+- writing tests for my solidity smart contract
+- debuging the solidity tests
