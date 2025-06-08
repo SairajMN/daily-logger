@@ -835,3 +835,10 @@
 - Finishing setup
 - writing tests for my solidity smart contract
 - debuging the solidity tests
+
+08/06/2025
+
+- Advanced deploy scripts
+- Running tests on chains forks
+- Refactoring tests
+- Deploy a mock priceFeed
