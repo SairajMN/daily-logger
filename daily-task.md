@@ -842,3 +842,11 @@
 - Running tests on chains forks
 - Refactoring tests
 - Deploy a mock priceFeed
+
+09/06/2025
+
+- Refactoring the mock smart contract
+- Quick quiz
+- Refoctoring magic number
+- Refactoring the mock smart contract pt-2
+- Foundry tests cheatcodes
