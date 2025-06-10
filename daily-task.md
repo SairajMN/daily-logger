@@ -850,3 +850,9 @@
 - Refoctoring magic number
 - Refactoring the mock smart contract pt-2
 - Foundry tests cheatcodes
+
+10/06/2025
+
+- Adding more coverage to the tests
+- Introduction to Foundry Chisel
+- Calcutating the Withdraw gas costs
