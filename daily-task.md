@@ -855,4 +855,4 @@
 
 - Adding more coverage to the tests
 - Introduction to Foundry Chisel
-- Calcutating the Withdraw gas costs
+- Calculating the Withdraw gas costs
