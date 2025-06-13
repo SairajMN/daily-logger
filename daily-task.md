@@ -856,3 +856,9 @@
 - Adding more coverage to the tests
 - Introduction to Foundry Chisel
 - Calculating the Withdraw gas costs
+
+13/06/2025
+
+- Introduction to Storage Optimization
+- Optimise the withdraw function gas cost
+- Quick quiz
