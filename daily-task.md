@@ -862,3 +862,9 @@
 - Introduction to Storage Optimization
 - Optimise the withdraw function gas cost
 - Quick quiz
+
+14/06/2025
+
+- Create integration tests
+- Automate your smart contracts actions
+- Zksync Devops
