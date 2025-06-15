@@ -868,3 +868,9 @@
 - Create integration tests
 - Automate your smart contracts actions
 - Zksync Devops
+
+15/06/2025
+
+- Finishing the project
+- Pushing fundme project to GitHub
+- going through the Foundry test Cheatcodes
