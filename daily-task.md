@@ -873,4 +873,8 @@
 
 - Finishing the project
 - Pushing fundme project to GitHub
-- going through the Foundry test Cheatcodes
+- going through the Foundry test 
+
+19/06/2025
+
+- working on new project Auction APP
