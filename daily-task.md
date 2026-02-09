@@ -878,3 +878,21 @@
 19/06/2025
 
 - working on new project Auction APP
+
+
+# BACK ON DAILY TASKS
+
+09/02/2026
+
+- From 07/01/2026 
+
+    Started Learning PYTHON by create MICRO PROJECTS from freecodecamp.com and AUTOMATE THE BORING STUFF WITH PYTHON
+
+- From Jan 15 2026 started ML and CYBER SECURITY TASKS from the basics to Intermediate level.
+
+- NOW I will start implementing what i learn in my upcoming projects and I will Be attending the hackathons related to WEB3, AI and more.
+
+## NOW ON WILL BE DAILY UPDATED THIS REPO TO TRACK MY PROGRESS.
+
+
+
