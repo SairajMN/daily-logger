@@ -896,3 +896,8 @@
 
 
 
+10/02/2026
+
+- joined AMD's Free AI Course
+    - AI Agents 101: Building AI Agents with MCP and Open-Source Inference
+    - Started the course
