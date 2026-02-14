@@ -906,3 +906,19 @@
 11/02/2026
 
 - Finished the first PART of AI Agents 101
+
+
+12/02/2026
+
+- started Working on my new ChainLink hackthon
+- It's called DeepSeer : A prediction market 
+
+13/02/2026 
+
+- Done a small research on chainlink cre
+- Started creating the fronend and Backend
+- with some Smart Contracts
+
+14/02/2026
+
+- Upgrading the project with chainlink integration and creating the workflow in cre
