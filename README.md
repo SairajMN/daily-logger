@@ -922,3 +922,7 @@
 14/02/2026
 
 - Upgrading the project with chainlink integration and creating the workflow in cre
+
+15/02/2026
+
+- Working on the live feeds of DeepSeer and live price feed Graphs
