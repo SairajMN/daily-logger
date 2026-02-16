@@ -926,3 +926,7 @@
 15/02/2026
 
 - Working on the live feeds of DeepSeer and live price feed Graphs
+
+16/02/2026
+
+- creating the current project DEEPSEER prototypes using AI agents TO get BEST LAYOUT FORMAT 
