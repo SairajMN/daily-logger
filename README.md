@@ -930,3 +930,12 @@
 16/02/2026
 
 - creating the current project DEEPSEER prototypes using AI agents TO get BEST LAYOUT FORMAT 
+
+17/02/2026
+
+- Trying to build AI agent with n8n using geminie AI To asist the user of DEEPSEER in market pridection
+
+18/02/2026
+
+- CHECK other Agentic AI builder LIKE LANG CHAIN 
+- checking the lang-chain instead of n8n
