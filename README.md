@@ -939,3 +939,7 @@
 
 - CHECK other Agentic AI builder LIKE LANG CHAIN 
 - checking the lang-chain instead of n8n
+
+19/02/2026
+
+- Lang-chain partially working have to check with Fetch.ai's ASI:One in agentverse
