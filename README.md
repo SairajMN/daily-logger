@@ -943,3 +943,9 @@
 19/02/2026
 
 - Lang-chain partially working have to check with Fetch.ai's ASI:One in agentverse
+
+20/02/2026
+
+- I was being dumb by using agent just to crete pridection tab 
+- now i'm going to use PYTHON SKlearn lib to create and if i can i will train the ML with some data and txn
+- i learn the SKlearn recently so it's going to take time but i will hardcode most of the code
