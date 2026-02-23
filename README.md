@@ -961,7 +961,10 @@
     - code analyser
     - cli analyser
     - and more
+- Frontend of AI, AI in cli
+- used free models from open router
 
 23/02/2026
 
-- 
+- creating project FOR MY MCA web technologies SUBJECT 
+  - MIGRANT LABOUR AND GRIEVANCE MANAGEMENT SYSTEM (MLGMS)
