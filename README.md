@@ -949,3 +949,19 @@
 - I was being dumb by using agent just to crete pridection tab 
 - now i'm going to use PYTHON SKlearn lib to create and if i can i will train the ML with some data and txn
 - i learn the SKlearn recently so it's going to take time but i will hardcode most of the code
+
+21/02/2026
+
+- Started working on the DevOps_AI for AUTOMATE ME IF U CAN HACKATHON BY WEMAKEDEVS
+- REPO (https://github.com/SairajMN/DevOps_AI)
+
+22/02/2026
+
+- Started working on the python code for
+    - code analyser
+    - cli analyser
+    - and more
+
+23/02/2026
+
+- 
