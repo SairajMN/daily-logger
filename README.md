@@ -968,3 +968,11 @@
 
 - creating project FOR MY MCA web technologies SUBJECT 
   - MIGRANT LABOUR AND GRIEVANCE MANAGEMENT SYSTEM (MLGMS)
+  - USING HTML, CSS and ANGULAR JS (HARD CODED)
+    - THIS IS a SPA (single page application)
+    - help full for migrant labours
+    - feature Enhancement will be there make this make this app more effective
+
+24/02/2026
+
+
