@@ -975,4 +975,6 @@
 
 24/02/2026
 
-
+- Created Employer, Employee and Admin TABs
+- using Python flask as Backend 
+- Xamp For local DB server (MySQL) 
