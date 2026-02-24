@@ -978,3 +978,4 @@
 - Created Employer, Employee and Admin TABs
 - using Python flask as Backend 
 - Xamp For local DB server (MySQL) 
+- along with this working on the Predection ai for DeepSeer 
