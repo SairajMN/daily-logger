@@ -979,3 +979,11 @@
 - using Python flask as Backend 
 - Xamp For local DB server (MySQL) 
 - along with this working on the Predection ai for DeepSeer 
+
+25/02/2026
+
+- Done presentation on MLGMS
+
+26/02/2026
+
+- updating deepseer with free model from open router for real ai prediction confidence
