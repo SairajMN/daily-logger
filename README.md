@@ -987,3 +987,11 @@
 26/02/2026
 
 - updating deepseer with free model from open router for real ai prediction confidence
+
+27/02/2026
+
+- cloning the prediction workspace template from chainlink 
+
+28/02/2026
+
+- getting deep into chianlink workspace for predition project
