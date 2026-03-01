@@ -995,3 +995,7 @@
 28/02/2026
 
 - getting deep into chianlink workspace for predition project
+
+29/02/2026
+
+- Creatinng structure fo the flash bet tab 
