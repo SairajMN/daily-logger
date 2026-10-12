@@ -1003,3 +1003,8 @@
 01/03/2026
 
 - added fash bet tab haev to create live price feed integration and more
+
+
+12/10/2026
+
+- Resuming the Daily-Logger
