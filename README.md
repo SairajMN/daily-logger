@@ -1008,3 +1008,8 @@
 12/10/2026
 
 - Resuming the Daily-Logger
+
+13/10/2026
+
+- Learned how to use Kubernetes in Google Cloud Console at Google Skills
+  - and tested with by put load on application ( tried created Metrics and custom Error and running query)
