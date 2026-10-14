@@ -1013,3 +1013,7 @@
 
 - Learned how to use Kubernetes in Google Cloud Console at Google Skills
   - and tested with by put load on application ( tried created Metrics and custom Error and running query)
+
+14/10/2026
+
+- continued the learning Kubernetes in the G-cloud at Google Skills (Advance part)
