@@ -1017,3 +1017,16 @@
 14/10/2026
 
 - continued the learning Kubernetes in the G-cloud at Google Skills (Advance part)
+
+15/10/2026
+
+- Building TERMINUS coding agent
+
+
+16/10/2026
+
+- working on Terminus
+
+17/10/2029
+
+- working on Terminus make it faster and safer (Cli only)
