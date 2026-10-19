@@ -1027,6 +1027,15 @@
 
 - working on Terminus
 
-17/10/2029
+17/10/2026
 
 - working on Terminus make it faster and safer (Cli only)
+
+18/10/2026
+
+- updated the Terminus agent
+
+
+19/10/2026
+
+- planing to enhance the harness to make it more faster (terminus) 
