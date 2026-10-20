@@ -1039,3 +1039,8 @@
 19/10/2026
 
 - planing to enhance the harness to make it more faster (terminus) 
+
+
+20/10/2026
+
+- Terminus - updating the agentic harness and the workflow and adding the context Eng concepts to reduce the model cost and hallucination 
