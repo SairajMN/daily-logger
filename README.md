@@ -1044,3 +1044,7 @@
 20/10/2026
 
 - Terminus - updating the agentic harness and the workflow and adding the context Eng concepts to reduce the model cost and hallucination 
+
+21/10/2026
+
+- Updated Terminus and checking on SiteMind project thinking to work on this more
