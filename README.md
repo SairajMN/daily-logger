@@ -1048,3 +1048,8 @@
 21/10/2026
 
 - Updated Terminus and checking on SiteMind project thinking to work on this more
+
+22/10/2026
+
+- Got internship at Startup Week ago working on some project ( will update) 
+- Startup Name : Zypit and Obula ( https://www.zypit.in , https://www.obula.io )
