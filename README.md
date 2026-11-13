@@ -1053,3 +1053,9 @@
 
 - Got internship at Startup Week ago working on some project ( will update) 
 - Startup Name : Zypit and Obula ( https://www.zypit.in , https://www.obula.io )
+
+
+13/11/2026
+
+- In the middle of the research abt Quantum tech in blockchain ( quantum safe blockchain) 
+- attempt to write research paper on how to secure wallets using quantum tech.  
